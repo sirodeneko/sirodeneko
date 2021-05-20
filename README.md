@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ 😄 I would like to have a golang backend internship.
+
 <!--
 **sirodeneko/sirodeneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
