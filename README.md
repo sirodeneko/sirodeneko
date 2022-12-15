@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 😄 I am a senior student, currently working as an intern at ByteDance。I love programming technology especially golang.If you have any questions, welcome to communicate together。😊
+ 😄 I currently working at ByteDance。I love programming technology especially golang.If you have any questions, welcome to communicate together。😊
 <!--
 **sirodeneko/sirodeneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
